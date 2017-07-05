@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1201A5AF1F0CF68A00100EFB /* Track.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1201A5AE1F0CF68A00100EFB /* Track.swift */; };
+		124A6A8E1F0D26F50094D9B2 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 124A6A8D1F0D26F50094D9B2 /* README.md */; };
 		126DFED71F0BAAD200BBC115 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DFED61F0BAAD200BBC115 /* AppDelegate.swift */; };
 		126DFED91F0BAAD200BBC115 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DFED81F0BAAD200BBC115 /* ViewController.swift */; };
 		126DFEDB1F0BAAD200BBC115 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 126DFEDA1F0BAAD200BBC115 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		1201A5AE1F0CF68A00100EFB /* Track.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Track.swift; sourceTree = "<group>"; };
+		124A6A8D1F0D26F50094D9B2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		126DFED31F0BAAD200BBC115 /* iTunes Graphs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iTunes Graphs.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		126DFED61F0BAAD200BBC115 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		126DFED81F0BAAD200BBC115 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,6 +50,7 @@
 		126DFECA1F0BAAD200BBC115 = {
 			isa = PBXGroup;
 			children = (
+				124A6A8D1F0D26F50094D9B2 /* README.md */,
 				126DFED51F0BAAD200BBC115 /* iTunes Graphs */,
 				126DFED41F0BAAD200BBC115 /* Products */,
 				126DFEE51F0BAC7500BBC115 /* Frameworks */,
@@ -163,6 +166,7 @@
 				129A105A1F0BF79700446150 /* DataHandling.swift in Sources */,
 				126DFEEE1F0BB4EB00BBC115 /* Chart.swift in Sources */,
 				126DFED91F0BAAD200BBC115 /* ViewController.swift in Sources */,
+				124A6A8E1F0D26F50094D9B2 /* README.md in Sources */,
 				126DFED71F0BAAD200BBC115 /* AppDelegate.swift in Sources */,
 				129A105C1F0BFC4800446150 /* ColouredCircle.swift in Sources */,
 				1201A5AF1F0CF68A00100EFB /* Track.swift in Sources */,
