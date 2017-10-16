@@ -9,4 +9,4 @@ Currently, it supports the following graphs:
  - Genres
  - Decades
 
-There's a build in the *Issues* section on GitHub.
+There's a build in the *Releases* section on GitHub.
