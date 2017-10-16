@@ -9,4 +9,4 @@ Currently, it supports the following graphs:
  - Genres
  - Decades
 
-There's no build on GitHub at the moment, so you'll have to build it yourself from Xcode. Use Xcode 8.
+There's a build in the *Issues* section on GitHub.
