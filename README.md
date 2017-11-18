@@ -9,4 +9,6 @@ Currently, it supports the following graphs:
  - Genres
  - Decades
 
+![](screenshot2.png)
+
 There's a build in the *Releases* section on GitHub.
