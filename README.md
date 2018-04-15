@@ -8,6 +8,8 @@ Currently, it supports the following graphs:
  - Artists
  - Genres
  - Decades
+ 
+I've also made an [iOS version](https://github.com/zac-garby/music-stats).
 
 ![](screenshot2.png)
 
