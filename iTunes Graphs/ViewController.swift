@@ -52,7 +52,7 @@ class ViewController: NSViewController {
     
     for track in tracks {
       if track.mediaKind == .kindSong {
-        guard let artist = track.artist?.name else { return }
+        guard let artist = track.artist?.name else { continue }
         let decade = Int(Double(track.year) / 10.0).description + "0s"
         
         data.append(Track(title: track.title, artist: artist, genre: track.genre, decade: decade))
